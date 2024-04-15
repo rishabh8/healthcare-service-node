@@ -16,7 +16,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.4.6",
     "cors": "2.8.5",
-    "babel-eslint": "^8.2.2",
+    "babel-eslint": "^10.1.0",
     "eslint": "^4.19.0",
     "eslint-config-airbnb": "^16.1.0",
     "xml-js": "^1.6.2",
